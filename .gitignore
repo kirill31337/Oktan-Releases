@@ -1,0 +1,26 @@
+# Ключи подписи и секреты
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.pepk
+signing/
+.env
+
+# Артефакты сборки
+*.apk
+*.aab
+*.apks
+*.idsig
+*.apk.idsig
+out/
+build/
+gen/
+
+# Временные файлы
+*.tmp
+*.part
+*.log
+__pycache__/
+*.pyc
+.DS_Store
