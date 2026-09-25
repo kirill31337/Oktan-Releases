@@ -27,12 +27,12 @@
 ## Интерфейс
 
 <p>
-  <img src="https://github.com/kirill31337/Oktan-Releases/releases/download/v1.4.3/home.png" alt="Главный экран с картой радиусов и демонстрационными АЗС" width="280">
-  <img src="https://github.com/kirill31337/Oktan-Releases/releases/download/v1.4.3/updates.png" alt="Раздел обновлений текущей версии приложения" width="280">
-  <img src="https://github.com/kirill31337/Oktan-Releases/releases/download/v1.4.3/permissions.png" alt="Предупреждения о невыданных разрешениях в тёмной теме" width="280">
+  <img src="https://github.com/kirill31337/Oktan-Releases/releases/download/v1.4.4/home.png" alt="Главный экран с картой радиусов и демонстрационными АЗС" width="280">
+  <img src="https://github.com/kirill31337/Oktan-Releases/releases/download/v1.4.4/updates.png" alt="Раздел обновлений текущей версии приложения" width="280">
+  <img src="https://github.com/kirill31337/Oktan-Releases/releases/download/v1.4.4/permissions.png" alt="Предупреждения о невыданных разрешениях в тёмной теме" width="280">
 </p>
 
-Скриншоты автоматически снимаются с интерфейса из APK каждого выпуска. На главном экране — демонстрационные данные, а не сведения о наличии топлива на реальных АЗС. [Версия и контрольные суммы снимков](https://github.com/kirill31337/Oktan-Releases/releases/download/v1.4.3/screenshots.json).
+Скриншоты автоматически снимаются с интерфейса из APK каждого выпуска. На главном экране — демонстрационные данные, а не сведения о наличии топлива на реальных АЗС. [Версия и контрольные суммы снимков](https://github.com/kirill31337/Oktan-Releases/releases/download/v1.4.4/screenshots.json).
 
 ## Установка
 
