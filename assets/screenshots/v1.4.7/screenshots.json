@@ -1,0 +1,63 @@
+{
+  "apkSha256": "7b10a077a633be4b76b39823ff479135f4df1a7d182817f0a168f4d55e81ab18",
+  "minSdk": 26,
+  "schemaVersion": 1,
+  "screenshots": [
+    {
+      "height": 1704,
+      "name": "home.png",
+      "sha256": "50acba66ab50f9b4169d918b0812647f3de56d3570f9fe0738a5e1effe2d5003",
+      "width": 786
+    },
+    {
+      "height": 1704,
+      "name": "nearby-list.png",
+      "sha256": "5dac038920d97f6cf61d0416601d7cb88b7157b1ef150827786312eae1ace77d",
+      "width": 786
+    },
+    {
+      "height": 1704,
+      "name": "expanded-map.png",
+      "sha256": "2e413f49d69522d3695a3181b0b250575b9d04c4b0c3c31eb2eab1c988a61485",
+      "width": 786
+    },
+    {
+      "height": 1704,
+      "name": "places.png",
+      "sha256": "c3ebfbd02f65491ae26ce58fa51b522ad61fb3277317869b29f4499838cb02e0",
+      "width": 786
+    },
+    {
+      "height": 1704,
+      "name": "history.png",
+      "sha256": "c96eea5e30919155b516c3194540b4fe0d8583e56fb89d64e45470e5816e57a6",
+      "width": 786
+    },
+    {
+      "height": 1704,
+      "name": "settings.png",
+      "sha256": "940f44875e9b68beca9783bbc05ed0af2a3ee2f61ad6da8d134d3dfec6197204",
+      "width": 786
+    },
+    {
+      "height": 1704,
+      "name": "updates.png",
+      "sha256": "b87e3b824b2166cdae0c7a14a8309cd3ea72980a286e0d63e59730da51361d2c",
+      "width": 786
+    },
+    {
+      "height": 1704,
+      "name": "permissions.png",
+      "sha256": "5aa49b662a04a56d87c9d2edd078aca243ae7b3d99d8822e61a39c2222044ec6",
+      "width": 786
+    }
+  ],
+  "uiDigest": "b821d11c5002b3f4c8a3d5e0e41a48a3e882318db0461b63331b0f5620349a7c",
+  "versionCode": 20,
+  "versionName": "1.4.7",
+  "viewport": {
+    "height": 852,
+    "scale": 2,
+    "width": 393
+  }
+}
