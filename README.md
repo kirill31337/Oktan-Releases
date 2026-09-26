@@ -30,17 +30,17 @@
 ## Интерфейс
 
 <p>
-  <img src="https://github.com/kirill31337/Oktan-Releases/releases/download/v1.5.5/home.png" alt="Главный экран: карта радиусов и демонстрационные АЗС" width="260">
-  <img src="https://github.com/kirill31337/Oktan-Releases/releases/download/v1.5.5/nearby-list.png" alt="Список заправок рядом: фильтры топлива, сети и сортировка" width="260">
-  <img src="https://github.com/kirill31337/Oktan-Releases/releases/download/v1.5.5/expanded-map.png" alt="Развёрнутая карта с настройками радиуса и фильтров" width="240">
-  <img src="https://github.com/kirill31337/Oktan-Releases/releases/download/v1.5.5/places.png" alt="Сохранённые места и выбранные вручную АЗС" width="240">
-  <img src="https://github.com/kirill31337/Oktan-Releases/releases/download/v1.5.5/history.png" alt="История появления и исчезновения топлива" width="240">
-  <img src="https://github.com/kirill31337/Oktan-Releases/releases/download/v1.5.5/settings.png" alt="Настройки топлива, сетей и фоновой проверки" width="240">
-  <img src="https://github.com/kirill31337/Oktan-Releases/releases/download/v1.5.5/updates.png" alt="Раздел обновлений текущей версии приложения" width="240">
-  <img src="https://github.com/kirill31337/Oktan-Releases/releases/download/v1.5.5/permissions.png" alt="Предупреждения о невыданных разрешениях в тёмной теме" width="240">
+  <img src="https://github.com/kirill31337/Oktan-Releases/releases/download/v1.5.8/home.png" alt="Главный экран: карта радиусов и демонстрационные АЗС" width="260">
+  <img src="https://github.com/kirill31337/Oktan-Releases/releases/download/v1.5.8/nearby-list.png" alt="Список заправок рядом: фильтры топлива, сети и сортировка" width="260">
+  <img src="https://github.com/kirill31337/Oktan-Releases/releases/download/v1.5.8/expanded-map.png" alt="Развёрнутая карта с настройками радиуса и фильтров" width="240">
+  <img src="https://github.com/kirill31337/Oktan-Releases/releases/download/v1.5.8/places.png" alt="Сохранённые места и выбранные вручную АЗС" width="240">
+  <img src="https://github.com/kirill31337/Oktan-Releases/releases/download/v1.5.8/history.png" alt="История появления и исчезновения топлива" width="240">
+  <img src="https://github.com/kirill31337/Oktan-Releases/releases/download/v1.5.8/settings.png" alt="Настройки топлива, сетей и фоновой проверки" width="240">
+  <img src="https://github.com/kirill31337/Oktan-Releases/releases/download/v1.5.8/updates.png" alt="Раздел обновлений текущей версии приложения" width="240">
+  <img src="https://github.com/kirill31337/Oktan-Releases/releases/download/v1.5.8/permissions.png" alt="Предупреждения о невыданных разрешениях в тёмной теме" width="240">
 </p>
 
-Скриншоты автоматически снимаются с интерфейса из APK каждого выпуска: это демонстрационные данные, а не сведения о наличии топлива на реальных АЗС. [Версия и контрольные суммы снимков](https://github.com/kirill31337/Oktan-Releases/releases/download/v1.5.5/screenshots.json).
+Скриншоты автоматически снимаются с интерфейса из APK каждого выпуска: это демонстрационные данные, а не сведения о наличии топлива на реальных АЗС. [Версия и контрольные суммы снимков](https://github.com/kirill31337/Oktan-Releases/releases/download/v1.5.8/screenshots.json).
 <!-- oktan-gallery:end -->
 
 ## Установка
